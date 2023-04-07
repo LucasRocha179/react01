@@ -1,8 +1,8 @@
+import TodoList from "../components/TodoList";
+
 function Home(props) {
     return(
-        <div>
-            <h1>Home Page</h1>
-        </div>
+        <TodoList />
     )
 };
 
